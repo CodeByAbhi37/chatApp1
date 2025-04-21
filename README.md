@@ -1,4 +1,4 @@
-<h1 style="color: #2c3e50;">Chat App</h1>
+<h1 style="color:blue;">Chat App</h1>
 <p>
   A <strong style="color: #2980b9;">Chat App</strong> built with <strong style="color: #e67e22;">Firebase</strong> and 
   <h4 style="display:inline; color: #16a085;">HTML</h4> is a real-time messaging application that allows users to 
