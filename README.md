@@ -1,1 +1,1 @@
-# chatApp1
+A Chat App built with Firebase and HTML is a real-time messaging application that allows users to send and receive messages instantly. Firebase, a Backend-as-a-Service (BaaS) by Google, provides the tools needed for real-time data synchronization, user authentication, and data storage.
